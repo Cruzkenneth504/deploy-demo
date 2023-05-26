@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/20-stu_fetching-data/static/css/main.c2cab247.css",
+    "main.js": "/20-stu_fetching-data/static/js/main.fa52b1d2.js",
+    "index.html": "/20-stu_fetching-data/index.html",
+    "main.c2cab247.css.map": "/20-stu_fetching-data/static/css/main.c2cab247.css.map",
+    "main.fa52b1d2.js.map": "/20-stu_fetching-data/static/js/main.fa52b1d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.fa52b1d2.js"
+  ]
+}
